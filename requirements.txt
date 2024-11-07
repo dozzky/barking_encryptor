@@ -1,0 +1,5 @@
+transformers
+random
+ast
+tkinter
+os
